@@ -14,6 +14,6 @@
 - prefix c_90 means clockwise rotation by 90 degree
 - prefix cc_90 means counter-clockwise rotation by 90 degree
 - prefix _180 means 180 degree rotation
-- Images of a user is stored into 3 folders inside the user_X folder . Positive for real images , Negative for fake images , Anchor for reference input images . This step will be done automatically by the running the code
+- Images of a user is stored into 3 folders inside the user_X folder . Positive for real images , Negative for fake images , Anchor for reference input images . This step will be done automatically by running the code
 
 
