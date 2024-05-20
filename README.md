@@ -1,5 +1,5 @@
 # Biometric-Palmprint-Authentication
-This is a authentication technique using hand palm images
+This is an authentication technique using hand palm images
 
 ### Sample collection methods
 Here is a sample image given for the reference . Sample images are not provided for security purpose 
